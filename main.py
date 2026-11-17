@@ -3,7 +3,7 @@ from utils.calculator import add_nums, devide_nums,subtract_nums,power,multiply_
 
 if __name__ == "__main__":
     print("Addition:",add_nums(1,3))
-    print(devide_nums(5,3))
-    print(subtract_nums(5,3))
-    print(multiply_nums(3,4))
-    print(power(2,4))
+    print("devision:", (5,3))
+    print("subtraction", (5,3))
+    print("multiplicaton", (3,4))
+    print("power", (2,4))
