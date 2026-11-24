@@ -6,4 +6,4 @@ if __name__ == "__main__":
     print("devision:", (5,3))
     print("subtraction", (5,3))
     print("multiplicaton", (3,4))
-    print((2,4))
+    print("Power", (2,4))
